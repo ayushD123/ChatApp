@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326756991269",
+    "project_id": "chat-app-ccff4",
+    "storage_bucket": "chat-app-ccff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326756991269:android:1270d31abb1ab91f029acc",
+        "android_client_info": {
+          "package_name": "net.lebdevelopers.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326756991269-mnoaijd7gpr8bfn3bve4kelibsvetm34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgVtVdE-Y0zbQFiXj0vTfFve1W9p00hUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326756991269-mnoaijd7gpr8bfn3bve4kelibsvetm34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
